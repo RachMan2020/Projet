@@ -99,6 +99,11 @@ body
     border-radius: 6px 6px 0 0;
 }
 
+body {
+    background: #000000; 
+    margin: 0;
+    padding: 0;
+}
 
 .txt {
     color: #ffffff;
